@@ -6,7 +6,7 @@
 
 # 😃 About me
 
-- **Nickname:** Lmmfff
+- **Nickname:** Mingfei Liu(刘明飞)
 - **Location:** China
 - **Education:**
   - **Undergraduate(2021.09-2025.06):** School of Artificial Intelligence and Automation（AIA）, Huazhong University of Science and Technology
@@ -18,7 +18,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lmmfff-black?logo=github)](https://github.com/Lmmfff)
 [![知乎](https://img.shields.io/badge/知乎-zhihu-blue?logo=zhihu)](https://www.zhihu.com/people/lmmfff)
-
+[![CSDN](https://img.shields.io/badge/CSDN-csdn-red?logo=csdn)](https://blog.csdn.net/lmmfff)
 ---
 
 # 📊 Statistics
