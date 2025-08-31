@@ -9,8 +9,8 @@
 - **Nickname:** Lmmfff
 - **Location:** China
 - **Education:**
--- Undergraduate(2021.09-2025.06): School of Artificial Intelligence and Automation（AIA）, Huazhong University of Science and Technology
--- Postgraduate(2025.9-Now): （SAI）, Shanghai Jiao Tong University
+-- **Undergraduate(2021.09-2025.06):** School of Artificial Intelligence and Automation（AIA）, Huazhong University of Science and Technology
+-- **Postgraduate(2025.9-Now):** （SAI）, Shanghai Jiao Tong University
 - **Email:** sjtu1055269@sjtu.edu.cn
 - **Homepage:** https://lmmfff.github.io
 
