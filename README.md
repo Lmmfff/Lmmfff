@@ -18,7 +18,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lmmfff-black?logo=github)](https://github.com/Lmmfff)
 [![知乎](https://img.shields.io/badge/知乎-zhihu-blue?logo=zhihu)](https://www.zhihu.com/people/lmmfff)
-[![CSDN](https://img.shields.io/badge/CSDN-csdn-red?logo=csdn)](https://blog.csdn.net/lmmfff)
+[![CSDN](https://img.shields.io/badge/CSDN-csdn-red?logo=csdn)](https://blog.csdn.net/qq_65483253)
 ---
 
 # 📊 Statistics
